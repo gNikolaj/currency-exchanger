@@ -1,0 +1,48 @@
+.App {
+    border: 1px solid #E8EAED;
+    box-shadow: 0 1px 3px -2px #9098A9;
+    border-radius: 5px;
+    width: 300px;
+    height: 100px;
+    margin: 30vh auto;
+}
+
+.enter-currency-box {
+    display: flex;
+    width: 250px;
+    margin: 10px auto;
+}
+
+select {
+    -webkit-appearance: none;
+    width: 60px;
+    text-align: center;
+    height: 100%;
+    border: 1px solid #E8EAED;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 1px 3px -2px #9098A9;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    color: #5A667F;
+}
+
+input {
+    -webkit-appearance: none;
+    padding: 7px 40px 7px 12px;
+    width: 60%;
+    border: 1px solid #E8EAED;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 1px 3px -2px #9098A9;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    transition: all 150ms ease;
+    color: #5A667F;
+}
+
+option {
+
+}
